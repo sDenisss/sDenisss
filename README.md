@@ -1,5 +1,9 @@
 ### 👋 Yo, what's up? I'm Denis!
 
+<p align="center">
+  <img src="Icons/rock.gif" alt="Animated Avatar" width="200"/>
+</p>
+
 I'm a student at ITMO University, where I'm studying software engineering. ITMO is like the Hogwarts of IT in Russia — but instead of magic, we code all day (and night).
 
 Right now, I'm grinding through pet projects, debugging until dawn, and dreaming of the day someone actually reads this README. 😎
@@ -39,6 +43,9 @@ What I Do
       </a>&nbsp;
       <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="Icons/java.svg" alt="Java" width="26" height="26" />
+      </a>
+      <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer">
+        <img src="Icons/csharp.svg" alt="C#" width="26" height="26" />
       </a>
     </td>
   </tr>
