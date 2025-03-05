@@ -1,7 +1,7 @@
 ### 👋 Yo, what's up? I'm Denis!
 
 <p align="center">
-  <img src="Icons/rock.gif" alt="Animated Avatar" width="200"/>
+  <img src="Icons/rock-sus.gif" alt="Animated Avatar" width="200"/>
 </p>
 
 I'm a student at ITMO University, where I'm studying software engineering. ITMO is like the Hogwarts of IT in Russia — but instead of magic, we code all day (and night).
@@ -46,6 +46,9 @@ What I Do
       </a>
       <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="Icons/csharp.svg" alt="C#" width="26" height="26" />
+      </a>
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
+        <img src="Icons/aspnet.svg" alt="Asp .NET Core" width="26" height="26" />
       </a>
     </td>
   </tr>
