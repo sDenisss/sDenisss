@@ -1,14 +1,17 @@
-### 👋 Hello, my name is Denis!
-- 💻 I develop web and desktop applications in C#, WPF and .NET  
-- 🛠 I work with SQLite, ASP.NET Core and Entity Framework 
-- 📚 I am constantly learning and mastering new technologies
-- 🖼 I create websites using HTML, CSS, Js
+### 👋 Yo, what's up? I'm Denis!
+
+I'm a student at ITMO University, where I'm studying software engineering. ITMO is like the Hogwarts of IT in Russia — but instead of magic, we code all day (and night).
+
+Right now, I'm grinding through pet projects, debugging until dawn, and dreaming of the day someone actually reads this README. 😎
+
+What I Do
+- 💻 Coding in C#: Building web and desktop apps like a boss.
+- 🛠 Tech Stack: SQLite, ASP.NET Core, Entity Framework — I make databases my playground.
+- 📚 Always Learning: New tech? Challenge accepted.
+- 🖼 Frontend Skills: HTML, CSS, JS — making websites look fresh.
 
 
 ### 🚀 Technologies:
-![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)  
 
 <table>
   <tr>
@@ -57,7 +60,7 @@
         <img src="Icons/git.svg" alt="Git" width="26" height="26" />
       </a>&nbsp;
       <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="Icons/github.svg" alt="GitHub" width="26" height="26" />
+        <img src="Icons/github-light.svg" alt="GitHub" width="26" height="26" />
       </a>&nbsp;
       <a href="https://swagger.io/" target="_blank" rel="noreferrer">
         <img src="Icons/swagger.svg" alt="Swagger" width="26" height="26" />
@@ -89,48 +92,3 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sDenisss&layout=compact" />
 </div>
-
-                                    
-                                                                     
-   ...............................................................   
-   ...............................................................   
-   ...............................................................   
-   .....................:*%@@@@@@@@@@@@@%-........................   
-   .................#@@@@@@@@@@@@@@@@@@@@@@@@-....................   
-   ..............%@@@@@@@@@%%%######%%%@@@@@@@@=..................   
-   ...........:@@@@@@@@%%#%#############%#%@@@@@%.................   
-   ..........*@@@@@@%#######%#############%%%@@@@@................   
-   .......:+%%%%%%%%%%%%%%%%%%%%%%###########%@@@@#...............   
-   ....:%%%%%%%%%%%%%%%%%%%%%%%%%%%%%########%%@@@@:..............   
-   ...#%%%%%+.       ::::::::::=%%%%%%#######%%@@@@%..............   
-   ..#%%%%.          .::::::::::-+#%%%%######%%%@@@@:.............   
-   .-%%%@::     .::::::::::::::::++%%%%%#####%%%@@@@@@%*-.........   
-   .+%%%%::::::::::::::::::::::-+++#%%%%%####%%%@@@@@@@@@@@@@=....   
-   .+%%%%+:::::::::::::::::::=+++++#%%%%######%%%@@@@@%%@@@@@@*...   
-   .-%%%%+++++==-------=+++++++++++%%%%%######%%%@@@@%#####%@@@:..   
-   ..#%%%%*+++++++++++++++++++++++%%%%%#######%%%@@@@%%%%%#%@@@+..   
-   ...+@%%%%%#+++++++++++++++++*%%%%%%%#######%%%@@@@%%%%%%%@@@%..   
-   .....@%%%%%%%%%%@@@@@@@@%%%%%%%%%%##%######%%%@@@@%%%%%%%%@@@:.   
-   .....@@@@%%%%%%%%%%%%%%%%%%%%%%%##########%%%%@@@@@%%%%%%%@@@-.   
-   ....:@@@@#%#####%%%%%%#%########%#########%%%%@@@@@%%%%%%%@@@+.   
-   ....:@@@%#################################%%%%@@@@@%%%%%%%@@@*.   
-   ....-@@@@%%###############################%%%%@@@@%%%%%%%%@@@%.   
-   ....-@@@%%###############################%%%%%@@@@%%%%%%%%@@@@.   
-   ....:@@@@%%#############################%%%%%%@@@@%%%%%%%%@@@%.   
-   ....:@@@@%%%###########################%%%%%%%@@@@%%%%%%%%@@@#.   
-   .....@@@@%%%%######################%#%%%%%%%%%@@@@%%%%%%%%@@@*.   
-   .....@@@@%%%%%%####################%%%%%%%%%%%@@@@%%%%%%%@@@@+.   
-   .....@@@@@%%%%%%%%%%########%%%%%%%%%%%%%%%%%%@@@@%%%%%%%@@@@-.   
-   .....+@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%%%%%%%@@@%..   
-   .....:@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%%%%%%@@@@-..   
-                                                                     
-                                                                            
- ___   _                                         _ _       _ _      _        
-|_ _| | |    _____   _____   ___ _ __ ___   __ _| | |   __| (_) ___| | _____ 
- | |  | |   / _ \ \ / / _ \ / __| '_ ` _ \ / _` | | |  / _` | |/ __| |/ / __|
- | |  | |__| (_) \ V /  __/ \__ \ | | | | | (_| | | | | (_| | | (__|   <\__ \
-<<<<<<< HEAD
-|___| |_____\___/ \_/ \___| |___/_| |_| |_|\__,_|_|_|  \__,_|_|\___|_|\_\___/
-=======
-|___| |_____\___/ \_/ \___| |___/_| |_| |_|\__,_|_|_|  \__,_|_|\___|_|\_\___/
->>>>>>> 0eab70b247cc5579cdceb4dbfe0f43abb8c87692
