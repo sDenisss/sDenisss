@@ -1,19 +1,18 @@
 ### 👋 Yo, what's up? I'm Denis!
 
 <p align="center">
-  <img src="Icons/rock-sus.gif" alt="Animated Avatar" width="200"/>
+  <img src="Icons/hi-hello.gif" alt="Animated Avatar" width="200"/>
 </p>
 
-I'm a student at ITMO University, where I'm studying software engineering. ITMO is like the Hogwarts of IT in Russia — but instead of magic, we code all day (and night).
+### About Me
+I’m a Software Engineering student at ITMO University, focusing on building practical skills through hands-on projects.
+I enjoy developing both web and desktop applications, improving backend systems, and learning new technologies to strengthen my expertise.
 
-Right now, I'm grinding through pet projects, debugging until dawn, and dreaming of the day someone actually reads this README. 😎
-
-What I Do
-- 💻 Coding in C#: Building web and desktop apps like a boss.
-- 🛠 Tech Stack: SQLite, ASP.NET Core, Entity Framework — I make databases my playground.
-- 📚 Always Learning: New tech? Challenge accepted.
-- 🖼 Frontend Skills: HTML, CSS, JS — making websites look fresh.
-
+### What I Do
+C# Development: Building web and desktop applications using .NET and C#.
+Backend Development: Working with technologies like ASP.NET Core, Entity Framework, and SQLite to create robust backend systems.
+Always Learning: Continuously expanding my knowledge of modern development tools and frameworks.
+Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user-friendly interfaces.
 
 ### 🚀 Technologies:
 
