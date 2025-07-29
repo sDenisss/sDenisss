@@ -60,6 +60,9 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
       <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
         <img src="Icons/sql.svg" alt="SQL" width="26" height="26" />
       </a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="Icons/postgresql.svg" alt="PostgreSQL" width="26" height="26" />
+      </a>&nbsp;
     </td>
   </tr>
   <tr>
@@ -74,6 +77,20 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
       <a href="https://swagger.io/" target="_blank" rel="noreferrer">
         <img src="Icons/swagger.svg" alt="Swagger" width="26" height="26" />
       </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <img src="Icons/vscode.svg" alt="VS Code" width="26" height="26" />
+      </a>&nbsp;
+      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+        <img src="Icons/vs.svg" alt="Visual Studio" width="26" height="26" />
+      </a>&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align=center><b>Infrastructure</b></td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="Icons/docker.svg" alt="Docker" width="26" height="26" />
+      </a>&nbsp;
     </td>
   </tr>
   <tr>
@@ -84,20 +101,60 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
       </a>
     </td>
   </tr>
+    <tr>
+    <td align=center><b>Middleware</b></td>
+    <td>
+      <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+        <img src="Icons/nginx.svg" alt="Nginx" width="26" height="26" />
+      </a>&nbsp;
+      <a href="https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction" target="_blank" rel="noreferrer">
+        <img src="Icons/signalr.svg" alt="SignalR" width="26" height="26" />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align=center><b>Core Features & Concepts</b></td>
+    <td>
+      <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank" rel="noreferrer">
+        <img src="Icons/efcore.svg" alt="Entity Framework Core" width="26" height="26" />
+      </a>&nbsp;
+      <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+        <img src="Icons/jwt.svg" alt="JWT" width="26" height="26" />
+      </a>&nbsp;
+      <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+        <img src="Icons/json.svg" alt="JSON" width="26" height="26" />
+      </a>&nbsp;
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer">
+        <img src="Icons/linq.svg" alt="LINQ" width="26" height="26" />
+      </a>&nbsp;
+      <a href="https://xunit.net/" target="_blank" rel="noreferrer">
+        <img src="Icons/xunit.svg" alt="xUnit" width="26" height="26" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 
-### 📊 GitHub stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denis&show_Icons=true&theme=radical)
+### 📊 GitHub Stats & Languages
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sDenisss&show_icons=true&theme=gotham" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sDenisss&layout=compact&theme=gotham" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <a href="https://github.com/sDenisss/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/sDenisss/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sDenisss&column=10&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sDenisss&theme=matrix"/>
 </a>
 
 
 ---
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sDenisss&layout=compact" />
-</div>
