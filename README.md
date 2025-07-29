@@ -128,7 +128,7 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
         <img src="Icons/linq.svg" alt="LINQ" width="26" height="26" />
       </a>&nbsp;
       <a href="https://xunit.net/" target="_blank" rel="noreferrer">
-        <img src="Icons/xunit.svg" alt="xUnit" width="26" height="26" />
+        <img src="Icons/xUnit.svg" alt="xUnit" width="26" height="26" />
       </a>
     </td>
   </tr>
