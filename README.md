@@ -14,6 +14,10 @@ Backend Development: Working with technologies like ASP.NET Core, Entity Framewo
 Always Learning: Continuously expanding my knowledge of modern development tools and frameworks.
 Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user-friendly interfaces.
 
+<p align="center">
+  <a href="https://t.me/sDenissss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+</p>
+
 ### 🚀 Technologies:
 
 <table>
@@ -47,7 +51,7 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
         <img src="Icons/csharp.svg" alt="C#" width="26" height="26" />
       </a>
       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
-        <img src="Icons/aspnet.svg" alt="Asp .NET Core" width="26" height="26" />
+        <img src="Icons/aspnetcore.png" alt="Asp .NET Core" width="50" height="26" />
       </a>
     </td>
   </tr>
