@@ -160,7 +160,7 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
       </td>
     </tr> -->
   </table>
-  <img src="Icons/girlwatchonyou.gif" height="350" />
+  <img src="Icons/girlwatchonyou.gif" height="300" />
 </div>
 
 ### 📊 GitHub Stats & Languages
