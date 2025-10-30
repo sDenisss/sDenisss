@@ -8,10 +8,10 @@
 I'm a Software Engineering student at ITMO University. I love building real projects and solving problems through code. Currently focused on backend development and learning new technologies.
 
 ### What I Do
-- 💻 **C# Development**: Creating web and desktop apps with .NET
-- 🔧 **Backend**: Working with ASP.NET Core, Entity Framework, databases
-- 🎯 **Learning**: Always exploring new tools and frameworks
-- 🌐 **Frontend**: Building interfaces with HTML, CSS, JavaScript
+- **C# Development**: Creating web and desktop apps with .NET
+- **Backend**: Working with ASP.NET Core, Entity Framework, databases
+- **Learning**: Always exploring new tools and frameworks
+- **Frontend**: Building interfaces with HTML, CSS, JavaScript
 
 <p align="center">
   <a href="https://t.me/sDenissss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
