@@ -160,7 +160,7 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
       </td>
     </tr> -->
   </table>
-  <img src="Icons/girlwatchonyou.gif" height="300" />
+  <!-- <img src="Icons/girlwatchonyou.gif" height="280" /> -->
 </div>
 
 ### 📊 GitHub Stats & Languages
@@ -178,12 +178,12 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
 </div>
 
 
-
 <a href="https://github.com/sDenisss/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/sDenisss/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=sDenisss&theme=matrix"/>
-  <img src="Icons/hacker-cat.gif" height="100" />
-</a>
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://github.com/sDenisss/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=sDenisss&theme=matrix"/>
+  </a>
+  <img src="Icons/hacker-cat.gif" height="92"/>
+</div>
 
 ---
