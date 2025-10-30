@@ -5,14 +5,13 @@
 </p>
 
 ### About Me
-I’m a Software Engineering student at ITMO University, focusing on building practical skills through hands-on projects.
-I enjoy developing both web and desktop applications, improving backend systems, and learning new technologies to strengthen my expertise.
+I'm a Software Engineering student at ITMO University. I love building real projects and solving problems through code. Currently focused on backend development and learning new technologies.
 
 ### What I Do
-C# Development: Building web and desktop applications using .NET and C#.
-Backend Development: Working with technologies like ASP.NET Core, Entity Framework, and SQLite to create robust backend systems.
-Always Learning: Continuously expanding my knowledge of modern development tools and frameworks.
-Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user-friendly interfaces.
+- 💻 **C# Development**: Creating web and desktop apps with .NET
+- 🔧 **Backend**: Working with ASP.NET Core, Entity Framework, databases
+- 🎯 **Learning**: Always exploring new tools and frameworks
+- 🌐 **Frontend**: Building interfaces with HTML, CSS, JavaScript
 
 <p align="center">
   <a href="https://t.me/sDenissss"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
@@ -22,7 +21,7 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
 
 ### 🚀 Technologies:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="align-items: center; justify-content: space-between;">
   <table>
     <tr>
       <td align=center><b>Frontend</b></td>
@@ -160,9 +159,9 @@ Frontend Development: Using HTML, CSS, and JavaScript to create responsive, user
       </td>
     </tr> -->
   </table>
-  <td style="vertical-align: top;">
-      <img src="Icons/girlwatchonyou.gif" height="340" />
-  </td>
+  <!-- <td style="vertical-align: top;">
+      <img src="Icons/girlwatchonyou.gif" height="200" />
+  </td> -->
 </div>
 
 ### 📊 GitHub Stats & Languages
